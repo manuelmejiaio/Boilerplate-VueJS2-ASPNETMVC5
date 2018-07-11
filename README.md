@@ -9,9 +9,7 @@ cd VueJS2-MVC5
 npm install
 npm run build
 ```
-Open project on Visual Studio
-Make sure to run the web project on http://localhost:54490
-Run the web projec on Visual Studio
+Open the solution on Visual Studio and run the web project. Make sure to run the web project on http://localhost:54490
 
 For hot-reaload
 
