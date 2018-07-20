@@ -18,4 +18,4 @@ npm run dev
 ```
 
 
-https://medium.com/@hyounoosung/integrating-vue-js-2-0-to-net-mvc5-project-f97eb5a5b3ad
+http://blog.manuelmejiajr.com/2018/07/boilerplate-vuejs-aspnet-mvc-5.html
